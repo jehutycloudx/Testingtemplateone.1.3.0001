@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TestingtemplateOneTwo</string>
+    <string name="welcome_to_fragment1">Welcome to Fragment1</string>
+    <string name="go_to_fragment1">Go to Fragment1</string>
+    <string name="go_to_fragment2">Go to Fragment2</string>
+    <string name="go_to_fragment3">Go to Fragment3</string>
+    <string name="go_to_second_activity">Go to Second Activity</string>
+    <string name="welcome_to_fragment2">Welcome to Fragment 2</string>
+    <string name="welcome_to_fragment3">Welcome to Fragment 3</string>
+    <string name="this_is_the_second_activity_layout">This is the Second Activity Layout</string>
+
+    <string name="new_project">New Project</string>
+    <string name="current_listings">Listings</string>
+    <string name="find_contractor">Contractors</string>
+    <string name="chat">Chat</string>
+    <string name="settings">Settings</string>
+    <string name="current_settings_placeholder">Current \'Settings\' Placeholder</string>
+    <string name="current_listings_placeholder">Current Listings Placeholder</string>
+    <string name="current_chat_placeholder">Current \'Chat\' Placeholder</string>
+    <string name="current_find_contractors_placeholder">Current \'Find Contractors\' Placeholder</string>
+    <string name="take_video">Take Video</string>
+    <string name="take_image">Take Image</string>
+    <string name="upload_media">Upload Media</string>
+    <string name="Fragement4">Image path one</string>
+    <string name="go_to_fragment_5">go to fragment 5</string>
+    <string name="go_to_fragment_4">Go to Fragment 4a1</string>
+    <string name="welcome_to_fragment_4">Welcome to Fragment 4a1</string>
+    <string name="back_to_media_select">Back</string>
+    <string name="description_field">(optional)</string>
+    <string name="project_title_optional">(optional)</string>
+    <string name="category_optional">Category (optional)</string>
+    <string name="go_to_fragment_4b">Go to Fragment 4b1</string>
+    <string name="Time">Date and Time</string>
+    <string name="category">Category</string>
+</resources>
